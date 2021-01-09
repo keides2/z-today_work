@@ -89,7 +89,7 @@ End Sub
 ' 添付ファイルの保存を行うサブ プロシージャ
 Private Sub SaveAttachments(ByVal strEntryID As String)
 
-    Const SAVE_PATH = "C:\Users\shimatani\Desktop\attachments\"
+    Const SAVE_PATH = "C:\Users\username\Desktop\attachments\"
     
     Dim objFSO As Object ' FileSystemObject
     Dim objMsg As Object
@@ -143,7 +143,7 @@ End Sub
 
 2. 保存先フォルダの修正
    - 添付ファイルの保存を行うサブ プロシージャ `SaveAttachments` にある次の行
-     `Const SAVE_PATH = "C:\Users\`**shimatani**`\Desktop\attachments\"`
+     `Const SAVE_PATH = "C:\Users\`**username**`\Desktop\attachments\"`
      を、自分が作成したフォルダ名に変更する
    - 以上で「【脆弱性TODAY】本日の脆弱性情報」メールを受信すると自動的に添付ファイルを attachment フォルダに移動する 
 3. 一括保存コードの実装
@@ -159,7 +159,7 @@ Public Sub SaveAttachmentsInCurrentFolder()
 End Sub
 '
 Private Sub SaveAttachmentsInOneItem(objItem As Object)
-    Const SAVE_PATH = "C:\Users\shimatani\Desktop\attachments\"
+    Const SAVE_PATH = "C:\Users\username\Desktop\attachments\"
     Dim objFSO As Object ' FileSystemObject
     Dim objAttach As Attachment
     Dim strFileName As String
