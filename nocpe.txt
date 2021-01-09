@@ -1,0 +1,255 @@
+abbrev.*1[\.]0[\.]9
+adler[ -]32.*1[\.]2[\.]0
+amazon
+Amazon Linux.*2
+amazon[ -]cognito[ -]identity[ -]js.*3[\.]0[\.]11
+amazon[ -]cognito[ -]identity[ -]js.*3[\.]0[\.]13
+android
+android[ -]versions.*1[\.]4[\.]0
+angular
+angular.*7[\.]2[\.]6
+angular.*7[\.]3[\.]3
+angular animations.*7[\.]2[\.]6
+angular cdk.*7[\.]3[\.]3
+angular common.*7[\.]2[\.]6
+angular compiler.*7[\.]2[\.]6
+angular core.*7[\.]2[\.]6
+angular forms.*7[\.]2[\.]6
+angular http.*7[\.]2[\.]6
+angular platform[ -]browser.*7[\.]2[\.]6
+angular platform[ -]browser[ -]dynamic.*7[\.]2[\.]6
+angular router.*7[\.]2[\.]6
+ansi.*0[\.]3[\.]1
+array[ -]ify.*1[\.]0[\.]0
+\<aws
+AWS IoT Device SDK for C++.*1[\.]4[\.]0
+AWS SDK for C++.*1[\.]7[\.]121
+AWS SDK for Java.*1[\.]11[\.]244
+AWS SDK for Python.*1[\.]9[\.]220
+AWS SDK for Python.*1[\.]9[\.]108 
+aws[ -]amplify.*0[\.]1[\.]15
+aws[ -]amplify.*1[\.]0[\.]18
+aws[ -]amplify.*1[\.]0[\.]25
+aws[ -]amplify.*1[\.]0[\.]26
+aws[ -]amplify.*1[\.]0[\.]28
+aws[ -]amplify.*1[\.]0[\.]36
+aws[ -]amplify.*1[\.]1[\.]26
+aws[ -]amplify.*1[\.]2[\.]14
+aws[ -]amplify.*1[\.]2[\.]22
+aws[ -]amplify analytics.*1[\.]2[\.]14
+aws[ -]amplify api.*1[\.]0[\.]33
+aws[ -]amplify api.*1[\.]0[\.]36
+aws[ -]amplify auth.*1[\.]2[\.]22
+aws[ -]amplify auth.*1[\.]2[\.]25
+aws[ -]amplify cache.*1[\.]0[\.]25
+aws[ -]amplify cache.*1[\.]0[\.]28
+aws[ -]amplify core.*1[\.]0[\.]25
+aws[ -]amplify core.*1[\.]0[\.]28
+aws[ -]amplify interactions.*1[\.]0[\.]28
+aws[ -]amplify pubsub.*1[\.]0[\.]26
+aws[ -]amplify storage.*1[\.]0[\.]28
+aws[ -]amplify ui.*1[\.]0[\.]18
+aws[ -]amplify xr.*0[\.]1[\.]15
+aws[ -]requests[ -]auth.*0[\.]4[\.]2
+aws[ -]sdk.*2[\.]329[\.]0
+aws[ -]sdk.*2[\.]474[\.]0
+balanced[ -]match.*1[\.]0[\.]0
+base64[ -]js.*1[\.]3[\.]0
+Berkeley DB.*5[\.]3[\.]28
+big[ -]integer.*1[\.]6[\.]44
+boto3.*1[\.]9[\.]108
+botocore.*1[\.]12[\.]209
+bplist[ -]creator.*0[\.]0[\.]7
+bplist[ -]parser.*0[\.]0[\.]6
+buffer.*4[\.]9[\.]1
+busybox.*1[\.]22[\.]0
+ccronexpr.*v20180523
+certifi.*2019[\.]3[\.]9
+cfb.*1[\.]1[\.]0
+chardet.*3[\.]0[\.]4
+CocoaAsyncSocket.*7[\.]6[\.]3
+codepage.*1[\.]14[\.]0
+commander.*2[\.]14[\.]1
+commander.*2[\.]17[\.]1
+compare[ -]func.*1[\.]3[\.]2
+concat[ -]map.*0[\.]0[\.]1
+cordova
+cordova[ -]common.*3[\.]2[\.]0
+cordova[ -]plugin[ -]advanced[ -]http.*2[\.]1[\.]1
+cordova[ -]plugin[ -]advanced[ -]http.*2[\.]2[\.]0
+cordova[ -]plugin[ -]chrome[ -]apps[ -]common.*1[\.]0[\.]7
+cordova[ -]plugin[ -]chrome[ -]apps[ -]iossocketscommon.*1[\.]0[\.]2
+cordova[ -]plugin[ -]chrome[ -]apps[ -]sockets[ -]udp.*1[\.]3[\.]0
+cordova[ -]plugin[ -]file.*6[\.]0[\.]2
+cordova[ -]plugin[ -]iroot.*0[\.]8[\.]1
+cordova[ -]plugin[ -]privacyscreen.*0[\.]4[\.]0
+cordova[ -]plugin[ -]splashscreen.*5[\.]0[\.]3
+cordova[ -]plugin[ -]statusbar.*2[\.]4[\.]3
+cordova[ -]plugin[ -]whitelist.*1[\.]3[\.]3
+core[ -]js.*2[\.]3[\.]0
+core[ -]util[ -]is.*1[\.]0[\.]2
+crc[ -]32.*1[\.]2[\.]0
+cross[ -]spawn.*6[\.]0[\.]5
+crypto[ -]js.*3[\.]19[\.]1
+DataDog
+dayjs.*1[\.]8[\.]15
+debug.*3[\.]1[\.]0
+dedent.*0[\.]7[\.]0
+Deep Security as a Service
+deep[ -]equal.*1[\.]0[\.]1
+defined.*1[\.]0[\.]0
+define[ -]properties.*1[\.]1[\.]3
+dnsmasq.*2[\.]7[\.]8
+docker[ -]compose.*1[\.]21[\.]0
+docutils.*1[\.]14
+elementtree.*0[\.]1[\.]7
+endent.*1[\.]3[\.]0
+es6[ -]promise.*3[\.]0[\.]2
+es[ -]abstract.*1[\.]12[\.]0
+es[ -]to[ -]primitive.*1[\.]1[\.]1
+ethtool.*4[\.]11
+events.*1[\.]1[\.]1
+exit[ -]on[ -]epipe.*1[\.]0[\.]1
+fail2ban.*0[\.]9[\.]7
+fast[ -]json[ -]parse.*1[\.]0[\.]3
+follow[ -]redirects.*1[\.]5[\.]8
+follow[ -]redirects.*1[\.]5[\.]10
+for[ -]each.*0[\.]3[\.]3
+frac.*1[\.]1[\.]2
+fs[\.]realpath.*1[\.]0[\.]0
+fs[ -]extra.*8[\.]1[\.]0
+function[ -]bind.*1[\.]1[\.]1
+future.*0[\.]17[\.]1
+glob.*7[\.]1[\.]3
+google.*2[\.]1[\.]11
+Google Maps Platform
+google markerclustererplus
+Google Tag Manager
+graceful[ -]fs.*4[\.]2[\.]0
+graphql.*0[\.]13[\.]0
+Gson.*2[\.]8[\.]2
+hammerjs.*2[\.]0[\.]8
+\<has.*1[\.]0[\.]3
+hashids.*1[\.]2[\.]0
+IBM Planning Analytics.*2[\.]0[\.][0-8]
+idna.*2[\.]8
+ieee754.*1[\.]1[\.]12
+immediate.*3[\.]0[\.]6
+inflight.*1[\.]0[\.]6
+inherits.*2[\.]0[\.]3
+ios[ -]sim.*8[\.]0[\.]1
+iproute2.*4[\.]11[\.]0
+iptables.*1[\.]6[\.]1
+isarray.*1[\.]0[\.]0
+is[ -]buffer.*1[\.]1[\.]6
+is[ -]buffer.*2[\.]0[\.]3
+is[ -]callable.*1[\.]1[\.]4
+is[ -]date[ -]object.*1[\.]0[\.]1
+isexe.*2[\.]0[\.]0
+is[ -]obj.*1[\.]0[\.]1
+is[ -]regex.*1[\.]0[\.]4
+is[ -]symbol.*1[\.]0[\.]1
+iterall.*1[\.]1[\.]4
+jmespath.*0[\.]15[\.]0
+js[ -]cookie.*2[\.]2[\.]0
+jsonfile.*4[\.]0[\.]0
+jszip.*3[\.]1[\.]5
+jszip.*3[\.]2[\.]2
+Kinesis Client Library.*1[\.]8[\.]8
+lettuce[ -]core.*5[\.]1[\.]0
+\<lie.*3[\.]1[\.]1
+\<lie.*3[\.]3[\.]0
+Log4j.*2[\.]11[\.]0
+minimist.*1[\.]2[\.]0
+\<ms.*2[\.]0[\.]0
+nice[ -]try.*1[\.]0[\.]5
+nopt.*1[\.]0[\.]9
+object[ -]inspect.*1[\.]6[\.]0
+object[ -]keys.*1[\.]0[\.]12
+objectorarray.*1[\.]0[\.]3
+once.*1[\.]4[\.]0
+Open JDK.*1[\.]8[\.]0
+osenv.*0[\.]1[\.]5
+os[ -]homedir.*1[\.]0[\.]2
+os[ -]tmpdir.*1[\.]0[\.]2
+pako.*1[\.]0[\.]6
+pandas.*0[\.]24[\.]1
+parse5.*5[\.]1[\.]0
+path[ -]is[ -]absolute.*1[\.]0[\.]1
+path[ -]key.*2[\.]0[\.]1
+path[ -]parse.*1[\.]0[\.]6
+phonegap[ -]plugin[ -]barcodescanner.*8[\.]0[\.]1
+printj.*1[\.]1[\.]2
+process[ -]nextick[ -]args.*1[\.]0[\.]7
+properties[ -]parser.*0[\.]3[\.]1
+psl.*1[\.]1[\.]29
+punycode.*1[\.]3[\.]2
+pyasn1.*0[\.]4[\.]7
+pycryptodomex.*3[\.]8[\.]2
+python[ -]dateutil.*2[\.]8[\.]0
+pytz.*2019[\.]2
+\<q.*1[\.]5[\.]1
+querystring.*0[\.]2[\.]0
+readable[ -]stream.*2[\.]0[\.]6
+redis[ -]py[ -]cluster.*1[\.]3[\.]6
+resolve.*1[\.]11[\.]1
+resumer.*0[\.]0[\.]0
+Roboto.*0[\.]1[\.]0
+rxjs.*6[\.]4[\.]0
+rxjs[ -]compat.*6[\.]3[\.]3
+s3fs.*0[\.]2[\.]0
+s3transfer.*0[\.]2[\.]0
+safe[ -]buffer.*5[\.]1[\.]2
+sax.*1[\.]1[\.]4
+sax.*1[\.]2[\.]1
+SDNetworkActivityIndicator
+set[ -]immediate[ -]shim.*1[\.]0[\.]1
+shebang[ -]command.*1[\.]2[\.]0
+shebang[ -]regex.*1[\.]0[\.]0
+shelljs.*0[\.]2[\.]6
+simctl.*2[\.]0[\.]0
+simple[ -]plist.*1[\.]0[\.]0
+six.*1[\.]12[\.]0
+ssf.*0[\.]10[\.]2
+stream[ -]buffers.*2[\.]2[\.]0
+string[\.]prototype[\.]codepointat.*0[\.]2[\.]1
+string[\.]prototype[\.]trim.*1[\.]1[\.]2
+string_decoder.*0[\.]10[\.]31
+strip[ -]bom.*3[\.]0[\.]0
+\<tail.*0[\.]4[\.]0
+tape.*4[\.]11[\.]0
+telerik.*1[\.]9[\.]0
+telerik.*2[\.]3[\.]2
+telerik.*1[\.]4[\.]2
+telerik kendo[ -]draggable.*1[\.]9[\.]0
+telerik kendo[ -]inputs[ -]common.*2[\.]3[\.]2
+through.*2[\.]3[\.]8
+tough[ -]cookie[ -]web[ -]storage[ -]store.*1[\.]0[\.]0
+tslib.*1[\.]9[\.]0
+types.*3[\.]10[\.]32
+types.*8[\.]9[\.]5
+types.*0[\.]5[\.]4
+types node.*8[\.]9[\.]5
+types node[ -]sass.*3[\.]10[\.]32
+types zen[ -]observable.*0[\.]5[\.]4
+Ujson.*1[\.]35
+underscore.*1[\.]9[\.]1
+universalify.*0[\.]1[\.]2
+unorm.*1[\.]6[\.]0
+\<url.*0[\.]10[\.]3
+util[ -]deprecate.*1[\.]0[\.]2
+uuid.*3[\.]1[\.]0
+uuid.*3[\.]3[\.]2
+Verified Linux Package.*2[\.]1[\.]0
+wheel.*0[\.]31[\.]0
+which.*1[\.]3[\.]1
+wrappy.*1[\.]0[\.]2
+xcode.*2[\.]0[\.]0
+xlsx.*0[\.]14[\.]1
+xml2js.*0[\.]4[\.]19
+xmlbuilder.*9[\.]0[\.]7
+xmldom.*0[\.]1[\.]27
+xml[ -]escape.*1[\.]1[\.]0
+zen[ -]observable.*0[\.]8[\.]14
+zone[\.]js.*0[\.]8[\.]29
+zxing.*3[\.]4[\.]0
